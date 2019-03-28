@@ -1,0 +1,10 @@
+C:\Users\MKA\Desktop\Programlar\hesapMakinesiSwitchCase\hesapMakinesiSwitchCase\bin\Debug\hesapMakinesiSwitchCase.exe.config
+C:\Users\MKA\Desktop\Programlar\hesapMakinesiSwitchCase\hesapMakinesiSwitchCase\bin\Debug\hesapMakinesiSwitchCase.exe
+C:\Users\MKA\Desktop\Programlar\hesapMakinesiSwitchCase\hesapMakinesiSwitchCase\bin\Debug\hesapMakinesiSwitchCase.pdb
+C:\Users\MKA\Desktop\Programlar\hesapMakinesiSwitchCase\hesapMakinesiSwitchCase\obj\Debug\hesapMakinesiSwitchCase.csprojAssemblyReference.cache
+C:\Users\MKA\Desktop\Programlar\hesapMakinesiSwitchCase\hesapMakinesiSwitchCase\obj\Debug\hesapMakinesiSwitchCase.Form1.resources
+C:\Users\MKA\Desktop\Programlar\hesapMakinesiSwitchCase\hesapMakinesiSwitchCase\obj\Debug\hesapMakinesiSwitchCase.Properties.Resources.resources
+C:\Users\MKA\Desktop\Programlar\hesapMakinesiSwitchCase\hesapMakinesiSwitchCase\obj\Debug\hesapMakinesiSwitchCase.csproj.GenerateResource.cache
+C:\Users\MKA\Desktop\Programlar\hesapMakinesiSwitchCase\hesapMakinesiSwitchCase\obj\Debug\hesapMakinesiSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\MKA\Desktop\Programlar\hesapMakinesiSwitchCase\hesapMakinesiSwitchCase\obj\Debug\hesapMakinesiSwitchCase.exe
+C:\Users\MKA\Desktop\Programlar\hesapMakinesiSwitchCase\hesapMakinesiSwitchCase\obj\Debug\hesapMakinesiSwitchCase.pdb
